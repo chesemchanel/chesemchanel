@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**chesemchanel/CHESEMchanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there am chesemchanel
+## About Me 
+- I,m currenlty learning web developement
+- I,m inrested in gaming ,coding  and Ai
+- Am looking to collaborate on beginner_friendlyopem source projects
+ ##Skills I,m Bulding 
+- Git and Github
+-python ,HTML/CSS
+-## Current projects 
+-no projects
+##How to Reach Me
+-Email :chesemchanel@gmail.com
+-linkedIn :
